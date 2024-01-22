@@ -13,13 +13,13 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ### Hard:
 
-- [x] **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine%20(Kotlin))** ☕☕☕ ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
+- [x] **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine%20(Kotlin))** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
 - [x] **[Simple Tic-Tac-Toe (Kotlin)](kotlin/Simple%20Tic-Tac-Toe%20(Kotlin))** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
 
 ### Challenging:
 
 - [x] **[Cinema Room Manager (Kotlin)](kotlin/Cinema%20Room%20Manager%20(Kotlin))** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
-- [x] **[Minesweeper (Kotlin)](kotlin/Minesweeper%20(Kotlin))** 💣💥💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
+- [x] **[Minesweeper (Kotlin)](kotlin/Minesweeper%20(Kotlin))** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
 
 ---
 
