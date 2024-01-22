@@ -8,18 +8,18 @@ From crafting a 🌱 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ### Easy
 
--  🌱 ** [Simple Chat Bot (Kotlin)](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Simple%20Chat%20Bot%20(Kotlin)>)** - https://hyperskill.org/projects/126
--  🌱 ** [Zookeeper (Kotlin)()](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Zookeper%20(Kotlin)>)** - https://hyperskill.org/projects/196
+🌱 [**Simple Chat Bot (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Simple%20Chat%20Bot%20(Kotlin)>) - https://hyperskill.org/projects/126
+🌱 [**Zookeeper (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Zookeper%20(Kotlin)>) - https://hyperskill.org/projects/196
 
 ### Hard
 
--  💪 ** [Coffee Machine (Kotlin)](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Coffee%20Machine%20(Kotlin)>)** - https://hyperskill.org/projects/67
--  💪 ** [Simple Tic-Tac-Toe (Kotlin)](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Simple%20Tic-Tac-Toe%20(Kotlin)>)** - https://hyperskill.org/projects/123
+💪 [**Coffee Machine (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Coffee%20Machine%20(Kotlin)>) - https://hyperskill.org/projects/67
+💪 [**Simple Tic-Tac-Toe (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Simple%20Tic-Tac-Toe%20(Kotlin)>) - https://hyperskill.org/projects/123
 
 ### Challenging
 
--  🚀 ** [Cinema Room Manager (Kotlin)](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Cinema%20Room%20Manager%20(Kotlin)>)** - https://hyperskill.org/projects/138
--  🚀 ** [Minesweeper (Kotlin)](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Minesweeper%20(Kotlin)>)** - https://hyperskill.org/projects/8
+🚀 [**Cinema Room Manager (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Cinema%20Room%20Manager%20(Kotlin)>) - https://hyperskill.org/projects/138
+🚀 [**Minesweeper (Kotlin)**](<https://github.com/ivant0110/kotlin-hyperskill-projects/tree/master/Minesweeper%20(Kotlin)>) - https://hyperskill.org/projects/8
 
 ## Unpack, Explore, and Learn
 
