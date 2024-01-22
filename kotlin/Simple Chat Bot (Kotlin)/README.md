@@ -5,6 +5,6 @@ Get to know the basic syntax of Kotlin and write a simple program using variable
 Provided by JetBrains Academy
 
 Learn more about the project at:
-https://hyperskill.org/projects/126?track=69
+https://hyperskill.org/projects/126
 
 Check out my profile: https://hyperskill.org/profile/530388094
