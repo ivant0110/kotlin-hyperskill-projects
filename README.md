@@ -6,20 +6,20 @@ From crafting a 🌱 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ## Projects Showcase:
 
-### Easy:
+ ### Easy: 
 
--  🌱 **[Simple Chat Bot (Kotlin)](kotlin/Simple%20Chat%20Bot%20(Kotlin))** - https://hyperskill.org/projects/126
--  🌱 **[Zookeeper (Kotlin)](kotlin/Zookeper%20(Kotlin))** - https://hyperskill.org/projects/196
+ - [x]  **[Simple Chat Bot (Kotlin)](kotlin/Simple%20Chat%20Bot%20(Kotlin))** 🤖 -----------> https://hyperskill.org/projects/126  
+ - [x] **[Zookeeper (Kotlin)](kotlin/Zookeper%20(Kotlin))** 🦁 -----------------> https://hyperskill.org/projects/196
 
 ### Hard:
 
--  💪 **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine%20(Kotlin))** - https://hyperskill.org/projects/67
--  💪 **[Simple Tic-Tac-Toe (Kotlin)](kotlin/Simple%20Tic-Tac-Toe%20(Kotlin))** - https://hyperskill.org/projects/123
+- [x] **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine%20(Kotlin))** ☕ ------------> https://hyperskill.org/projects/67  
+- [x] **[Simple Tic-Tac-Toe (Kotlin)](kotlin/Simple%20Tic-Tac-Toe%20(Kotlin))** ❌⭕ -----> https://hyperskill.org/projects/123
 
 ### Challenging:
 
--  🚀 **[Cinema Room Manager (Kotlin)](kotlin/Cinema%20Room%20Manager%20(Kotlin))** - https://hyperskill.org/projects/138
--  🚀 **[Minesweeper (Kotlin)](kotlin/Minesweeper%20(Kotlin))** - https://hyperskill.org/projects/8
+- [x] **[Cinema Room Manager (Kotlin)](kotlin/Cinema%20Room%20Manager%20(Kotlin))** 🎬 ---> https://hyperskill.org/projects/138  
+- [x] **[Minesweeper (Kotlin)](kotlin/Minesweeper%20(Kotlin))** 💣 ---------------> https://hyperskill.org/projects/8
 
 ---
 
