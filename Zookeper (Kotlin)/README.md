@@ -1,4 +1,4 @@
-#Zookeeper (Kotlin)
+# Zookeeper (Kotlin)
 
 This project is aimed at beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
 

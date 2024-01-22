@@ -1,7 +1,6 @@
-#Simple Chat Bot (Kotlin)
+# Simple Chat Bot (Kotlin)
 
 Get to know the basic syntax of Kotlin and write a simple program using variables, conditions, loops, and functions.
-
 
 Provided by JetBrains Academy
 

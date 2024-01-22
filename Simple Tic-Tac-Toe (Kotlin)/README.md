@@ -1,4 +1,4 @@
-#Simple Tic-Tac-Toe (Kotlin)
+# Simple Tic-Tac-Toe (Kotlin)
 
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using methods, nested lists, list comprehension, handling errors, and processing user input.
 
