@@ -20,7 +20,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 -  [x] **[Chuck Norris Cipher Encoder (Kotlin)](<kotlin/Chuck%20Norris%20Cipher%20Encoder%20(Kotlin)>)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
 
-### Challenging: 🤠
+### Challenging:
 
 -  [x] **[Cinema Room Manager (Kotlin)](<kotlin/Cinema%20Room%20Manager%20(Kotlin)>)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
 -  [x] **[Minesweeper (Kotlin)](<kotlin/Minesweeper%20(Kotlin)>)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
