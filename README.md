@@ -6,20 +6,24 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ## Projects Showcase:
 
- ### Easy: 
+### Easy:
 
- - [x]  **[Simple Chat Bot (Kotlin)](kotlin/Simple%20Chat%20Bot%20(Kotlin))** 🤖 ----- <sub><sup>https://hyperskill.org/projects/126</sub></sup>
- - [x] **[Zookeeper (Kotlin)](kotlin/Zookeper%20(Kotlin))** 🦁🦓🦒 ----- <sub><sup>https://hyperskill.org/projects/196</sub></sup>
+-  [x] **[Simple Chat Bot (Kotlin)](<kotlin/Simple%20Chat%20Bot%20(Kotlin)>)** 🤖 ----- <sub><sup>https://hyperskill.org/projects/126</sub></sup>
+-  [x] **[Zookeeper (Kotlin)](<kotlin/Zookeper%20(Kotlin)>)** 🦁🦓🦒 ----- <sub><sup>https://hyperskill.org/projects/196</sub></sup>
+
+### Medium:
+
+-  [x] **[Coffee Machine (Kotlin)](<kotlin/Coffee%20Machine%20(Kotlin)>)** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
+-  [x] **[Simple Tic-Tac-Toe (Kotlin)](<kotlin/Simple%20Tic-Tac-Toe%20(Kotlin)>)** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
 
 ### Hard:
 
-- [x] **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine%20(Kotlin))** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
-- [x] **[Simple Tic-Tac-Toe (Kotlin)](kotlin/Simple%20Tic-Tac-Toe%20(Kotlin))** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
+-  [x] **[Chuck Norris Cipher Encoder (Kotlin)](<kotlin/Chuck%20Norris%20Cipher%20Encoder%20(Kotlin)>)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
 
-### Challenging:
+### Challenging: 🤠
 
-- [x] **[Cinema Room Manager (Kotlin)](kotlin/Cinema%20Room%20Manager%20(Kotlin))** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
-- [x] **[Minesweeper (Kotlin)](kotlin/Minesweeper%20(Kotlin))** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
+-  [x] **[Cinema Room Manager (Kotlin)](<kotlin/Cinema%20Room%20Manager%20(Kotlin)>)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
+-  [x] **[Minesweeper (Kotlin)](<kotlin/Minesweeper%20(Kotlin)>)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
 
 ---
 
