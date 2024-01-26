@@ -19,6 +19,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 ### Hard:
 
 -  [x] **[Chuck Norris Cipher Encoder (Kotlin)](<kotlin/Chuck%20Norris%20Cipher%20Encoder%20(Kotlin)>)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
+-  [x] **[Unit Converter (Kotlin)](<kotlin/Unit%20Converter%20(Kotlin)>)** 📐🌡️⚖️📏 --- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
 
 ### Challenging:
 
