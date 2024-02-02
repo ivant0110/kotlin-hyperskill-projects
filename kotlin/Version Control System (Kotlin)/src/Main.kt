@@ -42,7 +42,7 @@ fun main(args: Array<String>) {
 			readCommitHistory()
 			showCommitHistory()
 		}
-		"checkout" -> restoreFiles(args)
+		"checkout" -> fileRestoration(args)
 		else -> println("'$argument' is not a SVCS command.")
 	}
 }
@@ -220,7 +220,7 @@ fun showCommitHistory() {
 	}
 }
 
-fun restoreFiles(args: Array<String>) {
+fun fileRestoration(args: Array<String>) {
 	if (args.size > 1) {
 		val id = args[1]
 		readCommitHistory()
