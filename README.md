@@ -21,11 +21,12 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Chuck Norris Cipher Encoder (Kotlin)](<kotlin/Chuck%20Norris%20Cipher%20Encoder%20(Kotlin)>)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
 -  [x] **[Unit Converter (Kotlin)](<kotlin/Unit%20Converter%20(Kotlin)>)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
 -  [x] **[Encryption-Decryption (Kotlin)](<kotlin/Encryption-Decryption%20(Kotlin)>)** 🔐 ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
+-  [x] **[Cinema Room Manager (Kotlin)](<kotlin/Cinema%20Room%20Manager%20(Kotlin)>)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
 
 ### Challenging:
 
--  [x] **[Cinema Room Manager (Kotlin)](<kotlin/Cinema%20Room%20Manager%20(Kotlin)>)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
 -  [x] **[Minesweeper (Kotlin)](<kotlin/Minesweeper%20(Kotlin)>)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
+-  [x] **[Version Control System (Kotlin)](<kotlin/Version%20Control%20System%20(Kotlin)>)** 🔄 ----- <sub><sup>https://hyperskill.org/projects/177</sub></sup>
 
 ---
 
