@@ -8,25 +8,26 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ### Easy:
 
--  [x] **[Simple Chat Bot (Kotlin)](<kotlin/Simple%20Chat%20Bot%20(Kotlin)>)** 🤖 ----- <sub><sup>https://hyperskill.org/projects/126</sub></sup>
--  [x] **[Zookeeper (Kotlin)](<kotlin/Zookeper%20(Kotlin)>)** 🦁🦓🦒 ----- <sub><sup>https://hyperskill.org/projects/196</sub></sup>
+-  [x] **[Simple Chat Bot (Kotlin)](kotlin/Simple%20Chat%20Bot)** 🤖 ----- <sub><sup>https://hyperskill.org/projects/126</sub></sup>
+-  [x] **[Zookeeper (Kotlin)](kotlin/Zookeper)** 🦁🦓🦒 ----- <sub><sup>https://hyperskill.org/projects/196</sub></sup>
 
 ### Medium:
 
--  [x] **[Coffee Machine (Kotlin)](<kotlin/Coffee%20Machine%20(Kotlin)>)** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
--  [x] **[Simple Tic-Tac-Toe (Kotlin)](<kotlin/Simple%20Tic-Tac-Toe%20(Kotlin)>)** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
+-  [x] **[Coffee Machine (Kotlin)](kotlin/Coffee%20Machine)** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
+-  [x] **[Simple Tic-Tac-Toe (Kotlin)](kotlin/Simple%20Tic-Tac-Toe)** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
 
 ### Hard:
 
--  [x] **[Chuck Norris Cipher Encoder (Kotlin)](<kotlin/Chuck%20Norris%20Cipher%20Encoder%20(Kotlin)>)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
--  [x] **[Unit Converter (Kotlin)](<kotlin/Unit%20Converter%20(Kotlin)>)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
--  [x] **[Encryption-Decryption (Kotlin)](<kotlin/Encryption-Decryption%20(Kotlin)>)** 🔐 ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
--  [x] **[Cinema Room Manager (Kotlin)](<kotlin/Cinema%20Room%20Manager%20(Kotlin)>)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
+-  [x] **[Chuck Norris Cipher Encoder (Kotlin)](kotlin/Chuck%20Norris%20Cipher%20Encoder)** 🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
+-  [x] **[Unit Converter (Kotlin)](kotlin/Unit%20Converter)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
+-  [x] **[Encryption-Decryption (Kotlin)](kotlin/Encryption-Decryption)** 🔐 ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
+-  [x] **[Cinema Room Manager (Kotlin)](kotlin/Cinema%20Room%20Manager)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
 
 ### Challenging:
 
--  [x] **[Minesweeper (Kotlin)](<kotlin/Minesweeper%20(Kotlin)>)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
--  [x] **[Version Control System (Kotlin)](<kotlin/Version%20Control%20System%20(Kotlin)>)** 🔄 ----- <sub><sup>https://hyperskill.org/projects/177</sub></sup>
+-  [x] **[Minesweeper (Kotlin)](kotlin/Minesweeper)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
+-  [x] **[Version Control System (Kotlin)](kotlin/Version%20Control%20System)** 🔄 ----- <sub><sup>https://hyperskill.org/projects/177</sub></sup>
+-  [x] **[Steganography and Cryptography](kotlin/Steganography%20and%20Cryptography)** 🎭 ----- <sub><sup>https://hyperskill.org/projects/160</sub></sup>
 
 ---
 
