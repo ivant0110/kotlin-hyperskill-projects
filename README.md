@@ -24,6 +24,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Encryption-Decryption](kotlin/Encryption-Decryption)** 🔐🕵️‍♂️ ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
 -  [x] **[ASCII Text Signature](kotlin/ASCII%20Text%20Signature)** 📐🖋️✏️ ----- <sub><sup>https://hyperskill.org/projects/71</sub></sup>
 -  [x] **[Minesweeper](kotlin/Minesweeper)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
+-  [x] **[Connect Four](kotlin/Connect%20Four)** 🟡🔴🧩 ----- <sub><sup>https://hyperskill.org/projects/202</sub></sup>
 
 ### Challenging:
 
