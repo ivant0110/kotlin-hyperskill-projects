@@ -11,18 +11,18 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Simple Chat Bot](kotlin/Simple%20Chat%20Bot)** 🤖 ----- <sub><sup>https://hyperskill.org/projects/126</sub></sup>
 -  [x] **[Zookeeper](kotlin/Zookeper)** 🦁🦓🦒 ----- <sub><sup>https://hyperskill.org/projects/196</sub></sup>
 -  [x] **[Simple Tic-Tac-Toe](kotlin/Simple%20Tic-Tac-Toe)** ❌⭕ ----- <sub><sup>https://hyperskill.org/projects/123</sub></sup>
+-  [x] **[Coffee Machine](kotlin/Coffee%20Machine)** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
 
 ### Medium:
 
--  [x] **[Coffee Machine](kotlin/Coffee%20Machine)** ☕🥛🍵 ----- <sub><sup>https://hyperskill.org/projects/67</sub></sup>
 -  [x] **[Cinema Room Manager](kotlin/Cinema%20Room%20Manager)** 🎬 ----- <sub><sup>https://hyperskill.org/projects/138</sub></sup>
 -  [x] **[Chuck Norris Cipher Encoder](kotlin/Chuck%20Norris%20Cipher%20Encoder)** 💪🤠 --- <sub><sup>https://hyperskill.org/projects/300</sub></sup>
 -  [x] **[Parking Lot](kotlin/Parking%20Lot)** 🚗🅿️🚦 --- <sub><sup>https://hyperskill.org/projects/75</sub></sup>
+-  [x] **[Unit Converter](kotlin/Unit%20Converter)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
+-  [x] **[Encryption-Decryption](kotlin/Encryption-Decryption)** 🔐🕵️‍♂️ ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
 
 ### Hard:
 
--  [x] **[Unit Converter](kotlin/Unit%20Converter)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
--  [x] **[Encryption-Decryption](kotlin/Encryption-Decryption)** 🔐🕵️‍♂️ ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
 -  [x] **[ASCII Text Signature](kotlin/ASCII%20Text%20Signature)** ✏️📐🖋️ ----- <sub><sup>https://hyperskill.org/projects/71</sub></sup>
 -  [x] **[Minesweeper](kotlin/Minesweeper)** 🔍🚩💣💥 ----- <sub><sup>https://hyperskill.org/projects/8</sub></sup>
 -  [x] **[Connect Four](kotlin/Connect%20Four)** 🟡🧩🔴 ----- <sub><sup>https://hyperskill.org/projects/202</sub></sup>
