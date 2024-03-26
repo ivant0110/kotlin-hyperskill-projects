@@ -28,6 +28,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Connect Four](kotlin/Connect%20Four)** 🟡🧩🔴 ----- <sub><sup>https://hyperskill.org/projects/202</sub></sup>
 -  [x] **[Simple Search Engine](kotlin/Simple%20Search%20Engine)** 🔍📚🖥️ ----- <sub><sup>https://hyperskill.org/projects/89</sub></sup>
 -  [x] **[Bulls and Cows](kotlin/Bulls%20and%20Cows)** 🐂🐮🐮🐂 ----- <sub><sup>https://hyperskill.org/projects/364</sub></sup>
+-  [x] **[Indigo Card Game](kotlin/Indigo%20Card%20Game)** 🂡🂱🂲🂭🂮 ----- <sub><sup>https://hyperskill.org/projects/214</sub></sup>
 
 ### Challenging:
 
