@@ -32,6 +32,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 
 ### Challenging:
 
+-  [x] **[Words Virtuoso](kotlin/Words%20Virtuoso)** 🔤📚📝📜🎓 ----- <sub><sup>https://hyperskill.org/projects/290</sub></sup>
 -  [x] **[Version Control System](kotlin/Version%20Control%20System)** 🔄📂📊 ----- <sub><sup>https://hyperskill.org/projects/177</sub></sup>
 -  [x] **[Steganography and Cryptography](kotlin/Steganography%20and%20Cryptography)** 🎭 --- <sub><sup>https://hyperskill.org/projects/160</sub></sup>
 -  [x] **[Number Base Converter](kotlin/Number%20Base%20Converter)** 🔢↔️🧮 ----- <sub><sup>https://hyperskill.org/projects/165</sub></sup>
