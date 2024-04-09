@@ -37,6 +37,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Steganography and Cryptography](kotlin/Steganography%20and%20Cryptography)** 🎭 --- <sub><sup>https://hyperskill.org/projects/160</sub></sup>
 -  [x] **[Number Base Converter](kotlin/Number%20Base%20Converter)** 🔢↔️🧮 ----- <sub><sup>https://hyperskill.org/projects/165</sub></sup>
 -  [x] **[Pawns-Only Chess](kotlin/Pawns-Only%20Chess)** ♙🏁♟️ ----- <sub><sup>https://hyperskill.org/projects/182</sub></sup>
+-  [x] **[Smart Calculator](kotlin/Smart%20Calculator)** 🧮🎓📊 ----- <sub><sup>https://hyperskill.org/projects/88</sub></sup>
 
 ---
 
