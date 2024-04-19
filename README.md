@@ -38,6 +38,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Number Base Converter](kotlin/Number%20Base%20Converter)** 🔢↔️🧮 ----- <sub><sup>https://hyperskill.org/projects/165</sub></sup>
 -  [x] **[Pawns-Only Chess](kotlin/Pawns-Only%20Chess)** ♙🏁♟️ ----- <sub><sup>https://hyperskill.org/projects/182</sub></sup>
 -  [x] **[Smart Calculator](kotlin/Smart%20Calculator)** 🧮🎓📊 ----- <sub><sup>https://hyperskill.org/projects/88</sub></sup>
+-  [x] **[Git Internals](kotlin/Git%20Internals)** 🔄📁🛠️🐙 ----- <sub><sup>https://hyperskill.org/projects/110</sub></sup>
 
 ---
 
