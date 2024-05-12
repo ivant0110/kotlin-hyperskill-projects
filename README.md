@@ -20,6 +20,7 @@ From crafting a 🤖 Simple Chat Bot to mastering the intricacies of 💣 Minesw
 -  [x] **[Parking Lot](kotlin/Parking%20Lot)** 🚗🅿️🚦 --- <sub><sup>https://hyperskill.org/projects/75</sub></sup>
 -  [x] **[Unit Converter](kotlin/Unit%20Converter)** 📐🌡️⚖️📏 ----- <sub><sup>https://hyperskill.org/projects/70</sub></sup>
 -  [x] **[Encryption-Decryption](kotlin/Encryption-Decryption)** 🔐🕵️‍♂️ ----- <sub><sup>https://hyperskill.org/projects/279</sub></sup>
+-  [x] **[Phone Book](kotlin/Phone%20Book)** 📞📚🖋️📝 ----- <sub><sup>https://hyperskill.org/projects/86</sub></sup>
 
 ### Hard:
 
